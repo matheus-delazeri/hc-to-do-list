@@ -6,3 +6,4 @@ Uma simples To-Do List feita no treinamento Hiring Coders (com algumas altera√ß√
 - Deletar todas notas da lista
 
 # Preview
+![image](https://user-images.githubusercontent.com/55641441/125147612-d2ef1480-e102-11eb-8c53-bdbb9d3933ac.png)
