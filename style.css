@@ -1,0 +1,7 @@
+.list-item{
+    margin-top: 2%;
+    text-align: left;
+}
+input:focus::placeholder {
+    color: transparent;
+}
